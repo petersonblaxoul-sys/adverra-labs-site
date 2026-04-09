@@ -1,0 +1,10 @@
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.adverralabs.co.za/sitemap.xml
